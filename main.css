@@ -31,6 +31,7 @@ h1 {
   border-style: 2px solid black;
   border-radius: 5px;
   box-shadow: 0px 0px 5px 5px LightSlateGray;
+  margin-top: 40px;
 }
 
 p {
